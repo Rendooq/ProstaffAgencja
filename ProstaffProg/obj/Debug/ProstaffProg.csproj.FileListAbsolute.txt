@@ -1,0 +1,14 @@
+E:\Prostaff\ProstaffProg\ProstaffProg\bin\Debug\ProstaffProg.exe.config
+E:\Prostaff\ProstaffProg\ProstaffProg\bin\Debug\ProstaffProg.exe
+E:\Prostaff\ProstaffProg\ProstaffProg\bin\Debug\ProstaffProg.pdb
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.csproj.AssemblyReference.cache
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.Form1.resources
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.Properties.Resources.resources
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.csproj.GenerateResource.cache
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.csproj.CoreCompileInputs.cache
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.exe
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.pdb
+E:\Prostaff\ProstaffProg\ProstaffProg\bin\Debug\Newtonsoft.Json.dll
+E:\Prostaff\ProstaffProg\ProstaffProg\bin\Debug\Newtonsoft.Json.xml
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\Prostaff.292147C0.Up2Date
+E:\Prostaff\ProstaffProg\ProstaffProg\obj\Debug\ProstaffProg.csproj.ResolveComReference.cache
